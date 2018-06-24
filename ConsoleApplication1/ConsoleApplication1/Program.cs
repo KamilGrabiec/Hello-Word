@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //let put here any rubich and look at them in web github
+            //dodajmy linijke
         }
     }
 }
